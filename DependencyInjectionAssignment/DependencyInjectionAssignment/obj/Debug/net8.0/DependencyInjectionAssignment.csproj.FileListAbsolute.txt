@@ -1,0 +1,14 @@
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\bin\Debug\net8.0\DependencyInjectionAssignment.exe
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\bin\Debug\net8.0\DependencyInjectionAssignment.deps.json
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\bin\Debug\net8.0\DependencyInjectionAssignment.runtimeconfig.json
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\bin\Debug\net8.0\DependencyInjectionAssignment.dll
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\bin\Debug\net8.0\DependencyInjectionAssignment.pdb
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\obj\Debug\net8.0\DependencyInjectionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\obj\Debug\net8.0\DependencyInjectionAssignment.AssemblyInfoInputs.cache
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\obj\Debug\net8.0\DependencyInjectionAssignment.AssemblyInfo.cs
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\obj\Debug\net8.0\DependencyInjectionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\obj\Debug\net8.0\DependencyInjectionAssignment.dll
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\obj\Debug\net8.0\refint\DependencyInjectionAssignment.dll
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\obj\Debug\net8.0\DependencyInjectionAssignment.pdb
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\obj\Debug\net8.0\DependencyInjectionAssignment.genruntimeconfig.cache
+C:\Users\ifswtan\source\repos\DependencyInjectionAssignment\DependencyInjectionAssignment\obj\Debug\net8.0\ref\DependencyInjectionAssignment.dll
